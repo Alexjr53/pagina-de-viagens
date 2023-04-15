@@ -12,7 +12,12 @@
     font-weight: 600;
 }
 
-img{
-    height: 300px;
-    max-width: 400px;
+.card-img-top{
+    height: 400px;
+}
+
+.carousel-caption h5{
+    font-size: 80px;
+    color: #ffc107;
+    text-shadow: 2px 2px 2px black;
 }
