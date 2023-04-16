@@ -1,15 +1,13 @@
-.title{
-    font-size: 63px;
-    color: white;
-    padding: 25px;
-    text-align: center;
+h2{
+    font-size: 54px;
 }
 
-.subtitle{
-    font-size: 24px;
-    text-transform: uppercase;
-    color: #303030;
-    font-weight: 600;
+nav a{
+    font-weight: 700;
+}
+
+nav .nav-link{
+    font-weight: 700;
 }
 
 .card-img-top{
@@ -20,4 +18,9 @@
     font-size: 80px;
     color: #ffc107;
     text-shadow: 2px 2px 2px black;
+}
+
+footer p{
+    font-weight: 700;
+    font-size: 20px;
 }
